@@ -1,0 +1,8 @@
+{
+  "path": "/Users/cabbio540/Sites/github-tests-project/github-tests/test-repos/free/js/basic-unit-tests",
+  "name": "basic-unit-tests",
+  "author": "",
+  "description": "",
+  "devDependencies": { "jest-cli": "^23.6.0" },
+  "version": "0.0.1"
+}
